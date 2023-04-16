@@ -1,0 +1,17 @@
+{
+  "name": "Open d6",
+  "title": "Open d6 System",
+  "description": "This system implements the Open d6 ruleset.",
+  "author": "Your Name",
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "0.8.x",
+  "scripts": [
+    "system.js"
+  ],
+  "styles": [
+    "style.css"
+  ],
+  "template": "templates/system.html",
+  "license": "MIT"
+}

@@ -1,0 +1,5 @@
+/* Define custom styles for Open d6 */
+body.open-d6 {
+  background-color: #000;
+  color: #fff;
+}
